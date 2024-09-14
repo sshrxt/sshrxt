@@ -1,13 +1,13 @@
 # 🌃 About Me:
 Hello! My name is Shrut Patel, and I am studying Computer Science & Statistics at the University of Illinois at Urbana-Champaign. I find web development, machine-learning, AI, and cybersecurity very intruiging, and would love to explore these topics further! Check out my Personal Website: (https://shrut.vercel.app/) <br><br>
 
-## 👔 I’m currently working on:
+# 👔 I’m currently working on:
 - Integrating Sage3, a product of the Electronic Visualization Laboratory, with LLM-based web applications
 - Exploring machine learning with pytorch
 - ColorTaiko!, a research project from the Illinois Geomtery Lab!
 
 
-## 📱                      Socials:
+# 📱                      Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shrut-p)
 
 
